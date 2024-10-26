@@ -50,10 +50,9 @@ This repository contains the following files:
 
 ## Demo Video
 
-Here’s a [link to the video demonstration](Working.mp4) to see the app in action.
+Here’s a [link to the video demonstration](https://drive.google.com/file/d/1lPc5pP2NPZK4c1_j8RJY0lU1oIgLwmJZ/view?usp=sharing) to see the app in action.
 
-
-You can view the working of the app in the **Working.mp4** file to see a quick demonstration.
+[![Watch the video](Interface.png)](https://drive.google.com/file/d/1lPc5pP2NPZK4c1_j8RJY0lU1oIgLwmJZ/view?usp=sharing)
 
 ---
 
