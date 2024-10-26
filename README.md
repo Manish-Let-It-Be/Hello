@@ -50,7 +50,7 @@ This repository contains the following files:
 
 ## Demo Video
 
-Here’s a [link to the video demonstration](https://drive.google.com/file/d/1lPc5pP2NPZK4c1_j8RJY0lU1oIgLwmJZ/view?usp=sharing) to see the app in action.
+<!-- Here’s a [link to the video demonstration](https://drive.google.com/file/d/1lPc5pP2NPZK4c1_j8RJY0lU1oIgLwmJZ/view?usp=sharing) to see the app in action.-->
 
 [![Watch the video](Interface.png)](https://drive.google.com/file/d/1lPc5pP2NPZK4c1_j8RJY0lU1oIgLwmJZ/view?usp=sharing)
 
