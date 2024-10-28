@@ -48,7 +48,12 @@ This repository contains the following files:
 
 <!-- Here’s a [link to the video demonstration](https://drive.google.com/file/d/1lPc5pP2NPZK4c1_j8RJY0lU1oIgLwmJZ/view?usp=sharing) to see the app in action.-->
 Click on the picture to see the video...
-[![Watch the video](Interface.png)](https://drive.google.com/file/d/1lPc5pP2NPZK4c1_j8RJY0lU1oIgLwmJZ/view?usp=sharing)
+<!--[![Watch the video](Interface.png)](https://drive.google.com/file/d/1lPc5pP2NPZK4c1_j8RJY0lU1oIgLwmJZ/view?usp=sharing)-->
+
+<a href="https://drive.google.com/file/d/1lPc5pP2NPZK4c1_j8RJY0lU1oIgLwmJZ/view?usp=sharing">
+    <img src="Interface.png" alt="Watch the video" height="350">
+</a>
+
 
 ---
 
